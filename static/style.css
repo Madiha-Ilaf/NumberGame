@@ -1,0 +1,46 @@
+.header{
+    margin-top:100px;
+    text-align: center;
+    font-size: 35px;
+}
+.old{
+
+    margin-top: auto;
+    /* margin-left: 450px; */
+}
+form{
+    text-align: center;
+}
+.new{
+    margin-top: 170px;
+    margin-left: 350px;
+    margin-right: auto;
+    size: 50px;
+}
+.para{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+.input{
+    width: 320px;
+    height: 35px;
+}
+.button{
+    width: 180px;
+    height: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(95, 158, 160,0.212);
+    box-shadow: crimson;
+    margin-left: 10px;
+}
+.only{
+    font-size: 50px;
+    font-style: italic;
+}
+hr{
+    background-color: blueviolet;
+}
+body{
+    background-color:rgba(124,21, 21, 0.281)
+}
